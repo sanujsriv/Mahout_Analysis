@@ -1,0 +1,2 @@
+Classification: ./examples/bin/classify-20newsgroups.sh
+Clustering : ./examples/bin/cluster-syntheticcontrol.sh

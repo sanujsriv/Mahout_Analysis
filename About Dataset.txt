@@ -1,0 +1,11 @@
+20 Newsgroup dataset
+Extracted from mahout/bin
+66MB
+18,846 Files
+66MB
+
+Synthetic Control Dataset
+https://archive.ics.uci.edu/ml/datasets/synthetic+control+chart+time+series
+60 dimensional 
+600 records
+300KB 
